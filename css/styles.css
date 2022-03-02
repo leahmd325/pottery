@@ -5986,8 +5986,8 @@ textarea.form-control-lg {
   color: #212529;
 }
 
-.carousel {
-  position: relative;
+.carousel-left {
+  width: 75%; float: left;
 }
 
 .carousel.pointer-event {

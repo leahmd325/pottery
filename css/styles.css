@@ -5996,7 +5996,7 @@ textarea.form-control-lg {
 
 .carousel-inner {
   position: relative;
-  width: 100%;
+  width: 1075%;
   overflow: hidden;
 }
 .carousel-inner::after {
@@ -6009,8 +6009,8 @@ textarea.form-control-lg {
   position: relative;
   display: none;
   float: left;
-  width: 100%;
-  margin-right: -100%;
+  width: 75%;
+  margin-right: -75%;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
